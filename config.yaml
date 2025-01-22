@@ -1,5 +1,5 @@
 server:
-  port: 4002
+  port: 4010
   host: docs.suitsbooks.nl
   wildcard: true
   proxy: nginx
