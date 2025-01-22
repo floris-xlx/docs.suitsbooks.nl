@@ -75,7 +75,15 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Ponto",
+      "pages": [
+        "api-reference/endpoint/get",
+        "api-reference/endpoint/create",
+        "api-reference/endpoint/delete"
+      ]
+    },
+    {
+      "group": "Shopify",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
