@@ -1,0 +1,18 @@
+server:
+  port: 4002
+  host: docs.suitsbooks.nl
+  wildcard: true
+  proxy: nginx
+  
+metadata:
+  project_id: xxx
+  organization_id: xxx
+  version: 0.0.1
+
+github:
+  url: https://github.com/floris-xlx/docs.suitsbooks.nl
+  branch: main
+  last_commit_id: x
+  last_commit_message: x
+  last_commit_date: x
+  last_commit_author: x
